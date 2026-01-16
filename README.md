@@ -131,6 +131,24 @@ This is a **real-world 2-tier architecture** commonly used in production environ
 ![Two Tier Architecture](images/output-via-access-public-ip.png)
 
 
+---
+
+##  Result
+
+- EC2 successfully connects to RDS MySQL
+- Database data is retrieved using SQL queries
+- Output is displayed dynamically using PHP
+- Secure architecture with the database hosted in a private subnet
+
+
+---
+
+
+##  Conclusion
+
+This project demonstrates a **secure AWS 2-tier architecture** with EC2 and RDS MySQL. It shows dynamic PHP application connectivity, proper network and security configuration, and end-to-end data flow.  
+
+
 
 
 
