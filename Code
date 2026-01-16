@@ -125,8 +125,8 @@ function TableExists($tableName, $connection, $dbName) {
 <?php
 
 define('DB_SERVER', 'rds-database.cf0yugas20qp.eu-west-1.rds.amazonaws.com');
-define('DB_USERNAME', 'Barveen');
-define('DB_PASSWORD', 'Barveen786');
+define('DB_USERNAME', '***');
+define('DB_PASSWORD', '***');
 define('DB_DATABASE', 'Students');
 
 ?>
