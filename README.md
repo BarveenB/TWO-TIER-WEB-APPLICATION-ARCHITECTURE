@@ -98,11 +98,7 @@ This is a **real-world 2-tier architecture** commonly used in production environ
 ### Step 6: Place `index.php` in Apache Document Root
 
 - Created the PHP application file `index.php`
-- Placed the file in the default Apache document root:
-
-```text
-/var/www/html/
-
+- Placed the file in the default Apache document root (/var/www/html)
 
 
 ![Two Tier Architecture](images/index.php-file.png)
